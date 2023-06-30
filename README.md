@@ -4,7 +4,6 @@ I'm a back-end developer. I have knowledge of web development and relational dat
 programming for more than 3 years. I'm interested in improving my skills and learning how things work (what's behind the scenes). In my free time I 
 like to read articles or watch videos about programming in general and good practices of code.
 
-- 🌱 I’m currently learning **Go** for backend
 - 🛠 Soon I will be working on personal projects for my portfolio.
 - 📫 How to reach me: On [LinkedIn](https://www.linkedin.com/in/anthony-rosado-ancajima)
 
@@ -14,6 +13,6 @@ These are the technologies I'm currently working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql"  alt="My skills"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,docker"  alt="My skills"/>
   </a>
 </p>
