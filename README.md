@@ -10,16 +10,16 @@ These are the technologies I'm currently working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,docker,postman,sentry"  alt="My skills"/>
+    <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,git,docker,postman,sentry"  alt="My skills"/>
   </a>
 </p>
 
-### Learning now 🤖
+### Learning 🤖
 
 These are the technologies I'm currently learning:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go"  alt="Learning"/>
+    <img src="https://skillicons.dev/icons?i=go,nodejs"  alt="Learning"/>
   </a>
 </p>
