@@ -10,7 +10,7 @@ These are the technologies I'm currently working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,git,docker,postman,sentry"  alt="My skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,docker,postman,sentry"  alt="My skills"/>
   </a>
 </p>
 
