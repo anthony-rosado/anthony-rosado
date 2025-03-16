@@ -1,25 +1,23 @@
-### Hi there 👋
+### Hola 👋
 
-I'm a back-end developer. I have knowledge of web development and relational datadases. Also I'm good at problem solving and team work. I have been 
-programming for more than 4 years. I'm interested in improving my skills and learning how things work. In my free time I like to read articles or 
-watch videos about programming in general and good practices of code.
+Mi nombre es Anthony. Soy desarrollador back-end. Se me dan bien análisis y resolución de problemas, también me gusta trabajar en equipo. Me interesa mejorar mis habilidades y aprender cómo funcionan las cosas. En mi tiempo libre me gusta leer artículos o ver vídeos sobre programación y buenas prácticas de código.
 
-### My skills 💻
+### Tecnologías 💻
 
-These are the technologies I'm currently working with:
+Actualmente me encuentro desarrollando proyectos con:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,docker,postman,sentry"  alt="My skills"/>
+    <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,git,docker"  alt="Tecnologías"/>
   </a>
 </p>
 
-### Learning 🤖
+### Herramientas 🛠️
 
-These are the technologies I'm currently learning:
+Trabajo con estas herramientas en mi día a día:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs"  alt="Learning"/>
+    <img src="https://skillicons.dev/icons?i=phpstorm,postman,sentry,notion"  alt="Herramientas"/>
   </a>
 </p>
