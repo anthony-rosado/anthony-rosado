@@ -6,7 +6,7 @@ Cuento con más de 6 años de experiencia construyendo y manteniendo soluciones 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,laravel,mysql,git,docker,astro,tailwind"  alt="Tecnologías"/>
+    <img src="https://skillicons.dev/icons?i=php,js,go,laravel,react,mysql,git,docker,astro,tailwind"  alt="Tecnologías"/>
   </a>
 </p>
 
