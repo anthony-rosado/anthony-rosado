@@ -2,7 +2,7 @@
 
 Cuento con más de 6 años de experiencia construyendo y manteniendo soluciones web para la gestión de negocios y e-commerce. Me enfoco en resolver retos backend, integrar sistemas externos y entregar funcionalidades confiables de principio a fin.
 
-### Tecnologías con las que desarrollo 💻
+### Tecnologías con las que desarrollo
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,7 +10,7 @@ Cuento con más de 6 años de experiencia construyendo y manteniendo soluciones 
   </a>
 </p>
 
-### Herramientas que uso 🛠️
+### Herramientas que uso
 
 <p align="center">
   <a href="https://skillicons.dev">
