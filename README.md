@@ -27,7 +27,6 @@ Cuento con más de 6 años de experiencia construyendo y manteniendo soluciones 
 
 ## Proyectos destacados
 
-- [Portafolio web](https://github.com/anthony-rosado/web-portfolio) — Portafolio personal y trayectoria profesional.
 - [Algolia Explorer](https://github.com/anthony-rosado/algolia-explorer) — API de productos con integración de búsqueda.
 - [XML Invoice Recorder](https://github.com/anthony-rosado/xml-invoice-recorder) — API para registrar comprobantes XML.
 - [Notes Challenge](https://github.com/anthony-rosado/notes-challenge) — API para gestionar notas adhesivas.
