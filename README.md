@@ -1,10 +1,8 @@
-### Hola 👋
+# Anthony Rosado
 
-Mi nombre es Anthony. Soy desarrollador back-end. Se me dan bien análisis y resolución de problemas, también me gusta trabajar en equipo. Me interesa mejorar mis habilidades y aprender cómo funcionan las cosas. En mi tiempo libre me gusta leer artículos o ver vídeos sobre programación y buenas prácticas de código.
+Cuento con más de 6 años de experiencia construyendo y manteniendo soluciones web para la gestión de negocios y e-commerce. Me enfoco en resolver retos backend, integrar sistemas externos y entregar funcionalidades confiables de principio a fin.
 
-### Tecnologías 💻
-
-Actualmente me encuentro desarrollando proyectos con:
+### Tecnologías con las que desarrollo 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -12,12 +10,29 @@ Actualmente me encuentro desarrollando proyectos con:
   </a>
 </p>
 
-### Herramientas 🛠️
-
-Trabajo con estas herramientas en mi día a día:
+### Herramientas que uso 🛠️
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=phpstorm,postman,sentry,notion"  alt="Herramientas"/>
   </a>
 </p>
+
+## En qué trabajo
+
+- Plataformas de e-commerce y gestión de negocios
+- APIs REST e integraciones con sistemas externos
+- Flujos de pago y sincronización de datos
+- Rendimiento de aplicaciones, calidad de código y documentación técnica
+
+## Proyectos destacados
+
+- [Portafolio web](https://github.com/anthony-rosado/web-portfolio) — Portafolio personal y trayectoria profesional.
+- [Algolia Explorer](https://github.com/anthony-rosado/algolia-explorer) — API de productos con integración de búsqueda.
+- [XML Invoice Recorder](https://github.com/anthony-rosado/xml-invoice-recorder) — API para registrar comprobantes XML.
+- [Notes Challenge](https://github.com/anthony-rosado/notes-challenge) — API para gestionar notas adhesivas.
+
+## Contacto
+
+- Portafolio: [anthonyrosado.dev](https://www.anthonyrosado.dev/)
+- LinkedIn: [anthony-rosado-ancajima](https://www.linkedin.com/in/anthony-rosado-ancajima/)
